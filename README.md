@@ -1,0 +1,2 @@
+# South-African-Tourist-Accommodations-Analysis
+This is a Post COVID-19 recovery analysis of the accommodation sector of tourism in South Africa. The aim of the analysis is to find whether recovery has been achieved at the same pace across the four categories being: hotels, guest houses &amp; guest farms, caravan parks &amp; camping sites, and other accommodations. The analysis was done in Python.
